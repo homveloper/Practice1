@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # 바이너리, 에셋은 따로 관리한다.
 *.uasset
+*.umap
